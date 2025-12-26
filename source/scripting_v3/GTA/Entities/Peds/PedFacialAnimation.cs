@@ -1,4 +1,4 @@
-namespace GTA.Entities.Peds
+namespace GTA
 {
     /// <summary>
     /// Specifies the available facial animation states for a <see cref="Ped"/>.

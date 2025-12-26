@@ -3,13 +3,12 @@
 // License: https://github.com/scripthookvdotnet/scripthookvdotnet#license
 //
 
-using GTA.Entities.Peds;
-using GTA.Math;
-using GTA.Native;
-using GTA.NaturalMotion;
 using System;
 using System.ComponentModel;
 using System.Linq;
+using GTA.Math;
+using GTA.Native;
+using GTA.NaturalMotion;
 
 namespace GTA
 {
